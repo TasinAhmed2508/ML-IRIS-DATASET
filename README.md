@@ -1,6 +1,26 @@
 # 🌸 Iris Dataset Classification - ML Algorithms Comparison
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE.OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THELIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHERFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORcopies or substantial portions of the Software.The above copyright notice and this permission notice shall be included in allfurnished to do so, subject to the following conditions:copies of the Software, and to permit persons to whom the Software isto use, copy, modify, merge, publish, distribute, sublicense, and/or sellin the Software without restriction, including without limitation the rightsof this software and associated documentation files (the "Software"), to dealPermission is hereby granted, free of charge, to any person obtaining a copyCopyright (c) 2026 Tasin Ahmed![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -107,57 +127,26 @@ Each notebook contains:
 - **seaborn** - Statistical visualization
 - **Jupyter** - Interactive notebooks
 
-### Installation
+## 📈 Performance Metrics
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/iris-classification.git
-cd iris-classification
+For detailed performance analysis and comparison of all algorithms, see [ANALYSIS.md](ANALYSIS.md).
 
-# Install required packages
-pip install -r requirements.txt
-```
+## 👨‍💻 Author
 
-### Running Notebooks
+**Tasin Ahmed**
 
-Open any notebook in Jupyter:
-```bash
-jupyter notebook iris_decision_tree.ipynb
-```
+Connect with me:
+- GitHub: [@TasinAhmed2508](https://github.com/TasinAhmed2508)
 
-## 📈 Key Features
+## 📄 License
 
-- ✅ Data loading and exploration
-- ✅ Feature scaling and preprocessing
-- ✅ Train-test split validation
-- ✅ Model training and hyperparameter tuning
-- ✅ Performance metrics (Accuracy, Precision, Recall, F1-Score)
-- ✅ Confusion matrix visualization
-- ✅ ROC curves and classification reports
-- ✅ Feature importance analysis
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💡 Learning Outcomes
+Copyright © 2026 Tasin Ahmed
 
-This project demonstrates:
-- How to implement various ML algorithms from scikit-learn
-- Model evaluation and comparison techniques
-- Data visualization best practices
-- Hyperparameter tuning strategies
-- Cross-validation methods
+---
 
-## 📊 Results
-
-Each notebook includes detailed performance metrics and visualizations comparing:
-- Classification accuracy
-- Training time
-- Model complexity
-- Strengths and weaknesses of each approach
-
-## 🤝 Contributing
-
-Feel free to fork this repository and submit pull requests with improvements, additional algorithms, or enhanced visualizations.
-
-## 📝 License
+*Built with ❤️ for the data science community*
 
 This project is open source and available under the MIT License.
 
